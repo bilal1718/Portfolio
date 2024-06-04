@@ -25,19 +25,19 @@ function Projects() {
         />
         <ProjectCard
           src={ecomm}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/bilal1718/Ecommerce_App"
           h3="Ecommerce"
           p="Materials Shop"
         />
         <ProjectCard
           src={book}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/bilal1718/BookStore_App"
           h3="BookStore"
           p="Books App"
         />
         <ProjectCard
           src={news}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/bilal1718/Blogify"
           h3="News Explorer"
           p="News App"
         />
